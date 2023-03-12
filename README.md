@@ -1,13 +1,13 @@
 # Portfolio_Atualizado
 Portfolio_Atualizado
 
-Meu Portfolio https://varuska.github.io/Portfolio_Atualizado/
-Este é um portfólio feito com Html-Css e Javascript
-Autor
-Maria Varuska Aranguren.
-Instalação
-Este projeto não precisa de instalação.
-Contato
-Varusk9@gmail.com
+<h1>Meu Portfolio https://varuska.github.io/Portfolio_Atualizado/ </h1>
+<p>Este é um portfólio feito com Html-Css e Javascript</p>
+<h3>Autor</h3>
+<p>Maria Varuska Aranguren.</p>
+<h3>Instalação<h3>
+<p>Este projeto não precisa de instalação.</p>
+<h3>Contato</h3>
+<p>Varusk9@gmail.com</p>
 
 
